@@ -8,6 +8,9 @@ import Hover from './component/Hover';
 import Hover2 from './component/Hover2';
 import Benifit from './component/Benifit';
 import Rewards from './component/Rewards';
+import Edumobile from './component/EduMobile';
+import Card from './component/Card';
+import Stripss from './component/Stripss ';
 class App extends Component{
 
 
@@ -30,11 +33,18 @@ class App extends Component{
     </Boxess>
 
     <Boxess heading = 'EDUVANTAGE CLUB REWARDS PROGRAM' para='Get Exclusive Rewards and Offers from the Best Brands'>
-     <Rewards/>s
+     <Rewards/>
      <Bluebutton text = 'Know more '/>
     </Boxess>
 
+    <Boxess heading = 'DOWNLOAD OUR APP' para='Take the First Step Towards a Successful Career'>
+     <Edumobile/>
+     
+    </Boxess>
 
+    
+
+    <Stripss/>
 
     </div>
     );
