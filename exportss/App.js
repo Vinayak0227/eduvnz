@@ -7,6 +7,7 @@ import Bluebutton from './component/Bluebutton'
 import Hover from './component/Hover';
 import Hover2 from './component/Hover2';
 import Benifit from './component/Benifit';
+import Rewards from './component/Rewards';
 class App extends Component{
 
 
@@ -16,8 +17,9 @@ class App extends Component{
     <Carosel/>
     <Boxess heading = 'APPLY FOR EDUVANZ LOANS' para='Step Towards a Brighter Future with Eduvanz Loan... Find out how!'>
      <Hover/> 
+     </Boxess>
      <Bluebutton text = 'Apply now'/>
-    </Boxess>
+    
     <Boxess>
      <Hover2/> 
     </Boxess>
@@ -25,6 +27,11 @@ class App extends Component{
     <Boxess heading = 'BENEFITS FOR PARTNERED INSTITUTES' para='Increase Enrolments By 40% with Our Partnership'>
      <Benifit/> 
      <Bluebutton text = 'Get in touch'/>
+    </Boxess>
+
+    <Boxess heading = 'EDUVANTAGE CLUB REWARDS PROGRAM' para='Get Exclusive Rewards and Offers from the Best Brands'>
+     <Rewards/>s
+     <Bluebutton text = 'Know more '/>
     </Boxess>
 
 
