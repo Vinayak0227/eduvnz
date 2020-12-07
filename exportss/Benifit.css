@@ -1,0 +1,108 @@
+
+.benefit {
+    background-position: bottom;
+    background-size: cover;
+    background-color: #f3fafc;
+}
+section {
+    padding: 65px 0;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+.colmd-6{
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+font-size: 14px;
+line-height: 1.42857143;
+color: #161616;
+font-family: 'Source Sans Pro';
+font-weight: 200;
+text-align: -webkit-right;
+box-sizing: border-box;
+position: relative;
+min-height: 1px;
+padding-left: 15px;
+float: left;
+width: 50%;
+padding-right: 85px;
+}
+.benefits {
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    font-weight: 600;
+    color: #09c;
+    letter-spacing: .5px;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.benefitsul li {
+    font-size: 20px;
+    color: #09c;
+    font-weight: 600;
+    padding-bottom: 1.3rem;
+}
+
+.benefits1 {
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    font-weight: 400;
+    color: #455a64;
+    padding-left: 6px;
+    letter-spacing: .5px;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.benefitsul li {
+    font-size: 20px;
+    color: #09c;
+    font-weight: 600;
+    padding-bottom: 1.3rem;
+}
+user agent stylesheet
+li {
+    text-align: -webkit-match-parent;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+body {
+    color: #161616;
+    font-family: 'Source Sans Pro';
+    overflow-x: hidden;
+    width: 100%;
+    font-weight: 200;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}

@@ -1,0 +1,39 @@
+.example {
+    background: White;
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    box-shadow: rgb(46, 42, 42) 2px;
+}
+
+.padd{
+   
+    padding: 1px;
+
+}
+.margin{
+    margin: 1px;
+    padding: 1px;
+}
+.example:hover {
+    background:White;
+    box-shadow:black;
+    width: 300px;
+    height: 350px;
+}
+
+.pulse :hover {
+    -webkit-animation-name: pulse;
+    animation-name: pulse;
+}
+.applyAnimation:hover {
+    transition: width .2s,height .2s,transform .2s;
+    transition-property: width, height, transform;
+    transition-duration: 0.2s, 0.2s, 0.2s;
+    transition-timing-function: ease, ease, ease;
+    transition-delay: 0s, 0s, 0s;
+}
+.zoom:hover {
+    transform: scale(1.15);
+    transition: .3s;
+}

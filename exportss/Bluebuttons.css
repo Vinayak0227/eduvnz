@@ -1,0 +1,19 @@
+.btnAllBlue {
+    color: #fff;
+    background-color: #09c;
+    height: 45px;
+    width: 270px;
+    border-color: #09c;
+    border-radius: 2px;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    transition: .2s;
+    padding: 8px;
+}
+
+.btnAllBlue:hover {
+    color: #fff;
+    background-color: #278aab;
+    border: 1.5px solid #278aab;
+}
